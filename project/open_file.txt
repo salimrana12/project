@@ -4,3 +4,5 @@ how that is git push and git clone
 how to git push and git clone and git change
 01252555545
 012255555fgrf
+name vs id 
+name vs data
