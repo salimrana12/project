@@ -6,3 +6,5 @@ how to git push and git clone and git change
 012255555fgrf
 name vs id 
 name vs data
+man vs human 
+man vs male
